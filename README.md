@@ -6,8 +6,6 @@ This repository contains a structured collection of programming solutions and sy
 
 The primary focus of this portfolio is to document practical experience in Python logic, structural programming, and efficient data handling. The progression moves from a basic utility script to a multi-entity enrollment system, with an emphasis on writing clean, scalable code and rigorous data validation. 
 
-The certificate of excellence was officially granted at the end of the semester as validation for the successful execution and logical depth of these phases.
-
 ## Portfolio Structure and Development Phases
 
 ### Phase 1: Utility Billing Core (01_ & 02_)
@@ -25,10 +23,16 @@ The certificate of excellence was officially granted at the end of the semester 
 * **Core Concepts:** Enhanced multi-student data tracking, comprehensive error handling, input sanitization, and runtime workflow validation.
 * **Objective:** Addressing real-world edge cases to ensure data integrity and system reliability.
 
+## Project Ownership and Execution
+
+* **Role:** Lead Developer.
+* **Execution:** Responsible for the entire development lifecycle, including writing the core logic, designing the data verification workflows, and optimizing the final code structures.
+* **Defensive Evaluation:** Personally conducted the comprehensive system defense and technical discussion before the academic committee, demonstrating deep understanding of the underlying architecture, algorithmic decisions, and error-handling mechanisms implemented throughout the phases.
+
 ## Academic Recognition (07_)
 
 * **Award:** Certificate of Project Excellence.
-* **Significance:** This certificate was officially granted upon the completion and final evaluation of these development phases, recognizing the quality of the system logic and the overall implementation of data structures.
+* **Significance:** This certificate serves as an independent, official validation of the project's authenticity and standard. It was pursued and granted after a rigorous evaluation of the complete portfolio, confirming that the codebase was built through genuine individual effort, strong logical reasoning, and a thorough command of Python principles. It stands as a formal testament to the technical execution and merit of the work presented.
 
 ## Technical Skills Demonstrated
 * **Language:** Python 3.x
